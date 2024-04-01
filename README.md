@@ -1,1 +1,1 @@
-La segmentation de la clientèle avec le Kmean
+La segmentation de la clientèle avec le Kmeans
